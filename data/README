@@ -1,0 +1,9 @@
+Each file with extention .dat has the light curve data for J1402+5347
+The name of the file shows the date of observation
+The first column is seconds since UT = 00
+The second column is the apparent source flux density
+The true flux density is apparent * primary beam gain
+which for this directin is 1.76
+
+The file 09Apr2019-control.dat is not the light curve of J1402+5347
+It is the light curve of a control source J1403+5349
